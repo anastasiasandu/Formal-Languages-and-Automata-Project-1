@@ -4,4 +4,4 @@ Implement  a  library/program  in  a  programming  language  of your choosing to
 dfaparserengine.py   dfaconfigfile<br />
 Exercise 2.<br />
 Implement  a  library/program  in  a  programming  language  of your choosing to test acceptance of a DFA - loaded from a DFA config file.<br />
-dfaacceptanceengine.py   dfaconfigfile  <word to test>
+dfaacceptanceengine.py   dfaconfigfile    word to test
